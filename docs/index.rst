@@ -4,7 +4,7 @@
    contain the root `toctree` directive.
 
 Welcome to django_cityloc_pkg_beebojones's documentation!
-=========================================================
+==========================================================
 
 .. toctree::
    :maxdepth: 2
