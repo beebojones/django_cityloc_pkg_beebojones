@@ -10,7 +10,8 @@ Welcome to django_cityloc_pkg_beebojones's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-
+.. automodule:: django_cityloc_pkg_beebojones
+   :members:
 
 Indices and tables
 ==================
